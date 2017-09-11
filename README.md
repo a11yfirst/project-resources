@@ -1,2 +1,2 @@
 # project-resources
-Feature requirements, development resources, implementation and deployment notes
+Please see the [Wiki Home](https://github.com/a11yfirst/project-resources/wiki) page.
